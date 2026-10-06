@@ -1,2 +1,1 @@
-# aksha
-my-first-project  
+# Aksha
